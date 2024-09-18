@@ -74,3 +74,4 @@ Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mec
 Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment,2024-07-27,http://arxiv.org/abs/2407.19346,Max Wilcoxson; Morten Svendgård; Ria Doshi; Dylan Davis; Reya Vir; Anant Sahai
 One-Layer Transformer Provably Learns One-Nearest Neighbor In Context,2024-07-24,https://klusowski.princeton.edu/sites/g/files/toruqf5901/files/documents/li2024one.pdf,Zihao Li; Yuan Cao; Cheng Gao; Yihan He; Han Liu; Jason M. Klusowski; Jianqing Fan; Mengdi Wang
 Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs,2024-09-06,http://arxiv.org/abs/2409.04318,Aliakbar Nafar; Kristen Brent Venable; Parisa Kordjamshidi
+"Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers",2024-09-09,https://arxiv.org/pdf/2409.10559,Siyu Chen; Heejune Sheen; Tianhao Wang; Zhuoran Yang
