@@ -1,3 +1,5 @@
 Title,Date,Url,Author
 Knowledge Distillation vs. Pretraining from Scratch under a Fixed (Computation) Budget,2024-04-30,http://arxiv.org/abs/2404.19319,Minh Duc Bui; Fabian David Schmidt; Goran Glavaš; Katharina von der Wense
 Why are Adaptive Methods Good for Attention Models?,2020-10-23,http://arxiv.org/abs/1912.03194,Jingzhao Zhang; Sai Praneeth Karimireddy; Andreas Veit; Seungyeon Kim; Sashank J. Reddi; Sanjiv Kumar; Suvrit Sra
+
+"Exploring and Enhancing the Transfer of Distribution in Knowledge Distillation for Autoregressive Language Models",2024-09-19,https://arxiv.org/pdf/2409.12512,Jun Rao; Xuebo Liu; Zepeng Lin; Liang Ding; Jing Li; Dacheng Tao
