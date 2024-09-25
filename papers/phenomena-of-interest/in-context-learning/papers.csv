@@ -75,3 +75,4 @@ Polynomial Regression as a Task for Understanding In-context Learning Through Fi
 One-Layer Transformer Provably Learns One-Nearest Neighbor In Context,2024-07-24,https://klusowski.princeton.edu/sites/g/files/toruqf5901/files/documents/li2024one.pdf,Zihao Li; Yuan Cao; Cheng Gao; Yihan He; Han Liu; Jason M. Klusowski; Jianqing Fan; Mengdi Wang
 Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs,2024-09-06,http://arxiv.org/abs/2409.04318,Aliakbar Nafar; Kristen Brent Venable; Parisa Kordjamshidi
 Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers,2024-09-10,http://arxiv.org/abs/2409.10559,Siyu Chen; Heejune Sheen; Tianhao Wang; Zhuoran Yang
+"In-Context Learning May Not Elicit Trustworthy Reasoning: A-Not-B Errors in Pretrained Language Models",2024-09-23,https://arxiv.org/pdf/2409.15454,Pengrui Han; Peiyang Song; Haofei Yu; Jiaxuan You
