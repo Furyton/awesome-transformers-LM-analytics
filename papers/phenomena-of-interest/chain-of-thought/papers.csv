@@ -31,3 +31,15 @@ Efficiently Representing Algorithms With Chain-of-Thought Transformers,2026-06-1
 Free Energy Heuristics: Fast-And-Frugal Cognition as Active Inference Under Uncertain Precision,2026-06-14,http://arxiv.org/abs/2606.15877v1,Alex Bogdan
 
 Tight Sample Complexity of Transformers,2026-06-08,http://arxiv.org/abs/2606.09731v1,Chenxiao Yang;Nathan Srebro;Zhiyuan Li
+
+An Asymptotic Theory of Chain-of-Thought in In-Context Learning,2026-06-02,http://arxiv.org/abs/2606.03217v1,Kaito Takanami;Cengiz Pehlevan
+
+Unveiling the Entropy Dynamics of Chain-of-Thought Reasoning,2026-06-01,http://arxiv.org/abs/2606.02020v1,Ting Xu;Xu He;Yupu Lu;Jiankai Sun;Dong Li;Wai Lam;Jianye Hao
+
+The Deterministic Horizon: When Extended Reasoning Fails and Tool Delegation Becomes Necessary,2026-05-29,http://arxiv.org/abs/2606.00376v1,Dongxin Guo;Jikun Wu;Siu Ming Yiu
+
+Transformers Provably Learn to Internalize Chain-of-Thought,2026-05-27,http://arxiv.org/abs/2605.28600v1,Yixiao Huang;Hanlin Zhu;Zixuan Wang;Jiantao Jiao;Stuart Russell;Somayeh Sojoudi;Song Mei
+
+Revealing Algorithmic Deductive Circuits for Logical Reasoning,2026-05-27,http://arxiv.org/abs/2605.27824v1,Phuong Minh Nguyen;Tien Huu Dang;Naoya Inoue
+
+Do Models Know Why They Changed Their Mind? Interpretability and Faithfulness of Chain-of-Thought Under Knowledge Conflict,2026-05-26,http://arxiv.org/abs/2605.27773v1,Pruthvinath Jeripity Venkata
