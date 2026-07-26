@@ -37,3 +37,15 @@ On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners,
 Understanding the Parameter Space Geometry of Transformers Encoding Boolean Functions,2026-06-07,http://arxiv.org/abs/2606.08768v1,Blanka Köver;Alexandra Butoi;Anej Svete;Michael Hahn;Ryan Cotterell
 
 Towards Tight Bounds for Streaming Attention,2026-06-05,http://arxiv.org/abs/2606.07205v1,Justin Y. Chen;Ying Feng;Piotr Indyk;Michael Kapralov;Ekaterina Kochetkova;Boris Prokhorov
+
+Locality Does Not Imply Reachability: Boundary Repair in Block-Sparse Causal Attention,2026-06-01,http://arxiv.org/abs/2606.02680v1,Zhibo Yang
+
+The Deterministic Horizon: When Extended Reasoning Fails and Tool Delegation Becomes Necessary,2026-05-29,http://arxiv.org/abs/2606.00376v1,Dongxin Guo;Jikun Wu;Siu Ming Yiu
+
+How can embedding models bind concepts?,2026-05-29,http://arxiv.org/abs/2605.31503v1,Arnas Uselis;Darina Koishigarina;Seong Joon Oh
+
+Cross-Layer Subspace Coupling for LLM Compression: A Unifying Framework and Its Empirical Limits,2026-05-29,http://arxiv.org/abs/2605.30836v2,Snigdha Chandan Khilar
+
+The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability,2026-05-28,http://arxiv.org/abs/2605.30628v1,Mikhail L. Arbuzov;Lee Mosbacker;Sisong Bei;Ziwei Dong;Dmitri Kalaev;Alexey Shvets
+
+Improving Adversarial Robustness of Attribution via Implicit Regularization,2026-05-28,http://arxiv.org/abs/2605.29983v1,Amir Mehrpanah;Matteo Gamba;Hossein Azizpour

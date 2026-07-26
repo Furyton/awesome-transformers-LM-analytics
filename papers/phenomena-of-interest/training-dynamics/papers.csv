@@ -113,3 +113,37 @@ Understanding Quantization-Aware Training: Gradients at Quantized Weights Bias t
 Multilingual Sentiment Aware Text Summarization A Reinforcement Learning Approach for Consistency Maintenance,2026-06-08,http://arxiv.org/abs/2606.08940v1,Mikhail Krasitskii;Alexander Gelbukh;Olga Kolesnikova;Grigori Sidorov
 
 On the Geometry of On-Policy Distillation,2026-06-05,http://arxiv.org/abs/2606.07082v3,Zhennan Shen;Yanshu Li;Qingyu Yin;Chak Tou Leong;Zhilin Wang;Yanxu Chen;Rongduo Han;Sunbowen Lee;Yi R. Fung
+
+Why Muon Outperforms Adam: A Curvature Perspective,2026-06-03,http://arxiv.org/abs/2606.04662v1,Shuche Wang;Fengzhuo Zhang;Jiaxiang Li;Dirk Bergemann;Zhuoran Yang
+
+"Denoise First, Orthogonalize Later: Understanding Momentum in Muon via Spectral Filtering",2026-06-02,http://arxiv.org/abs/2606.03899v2,Xianliang Li;Zihan Zhang;Weiyang Liu;Han Bao
+
+A Local Perturbation Theory for Cross-Domain Interference and Recovery in Multi-Domain RL,2026-06-01,http://arxiv.org/abs/2606.02398v1,Lei Yang;Siyu Ding;Deyi Xiong
+
+A Theoretical Framework for Self-Play Theorem Proving Algorithms,2026-06-01,http://arxiv.org/abs/2606.01861v1,Thomas Chen;Zhiyuan Li
+
+Fast Generalization after Interpolation via Critically Damped Momentum Optimization,2026-06-01,http://arxiv.org/abs/2606.01521v1,Luca Muscarnera;Silas Ruhrberg Estévez;Yuanzhang Xiao;Mihaela Van der Schaar
+
+The Paradox of Outcome Optimization: A Causal Information-Theoretic Bound on Reasoning Shortcuts in LLMs,2026-05-30,http://arxiv.org/abs/2606.00674v1,Zihan Chen;Yiming Zhang;Wenxiang Geng;Zenghui Ding;Yining Sun
+
+Looped Transformers with Layer Normalization Provably Learn the Power Method,2026-05-30,http://arxiv.org/abs/2606.00605v1,Lyumin Wu;Chenyang Zhang;Yuan Cao
+
+"Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization",2026-05-29,http://arxiv.org/abs/2605.31558v1,Felipe Urrutia;Juan José Alegría;Cinthia Sanchez Macias;Jorge Salas;Cristian B. Calderon;Cristobal Rojas
+
+Assign and Add: A Mechanistic Study of Compositional Arithmetic,2026-05-29,http://arxiv.org/abs/2605.31497v1,Brady Exoo;Alberto Bietti;John Sous
+
+Agentic Transformers Provably Learn to Search via Reinforcement Learning,2026-05-29,http://arxiv.org/abs/2606.00183v1,Tong Yang;Yu Huang;Yingbin Liang;Yuejie Chi
+
+Convergence Theory for Iterative LLM-Based Neural Architecture Search: A Parametric Cross-Entropy Framework with Closed-Form Proxy Reliability,2026-05-28,http://arxiv.org/abs/2605.30103v1,Santosh Premi Adhikari;Radu Timofte;Dmitry Ignatov
+
+Improving Adversarial Robustness of Attribution via Implicit Regularization,2026-05-28,http://arxiv.org/abs/2605.29983v1,Amir Mehrpanah;Matteo Gamba;Hossein Azizpour
+
+The Hamilton-Jacobi Theory of Deep Learning,2026-05-27,http://arxiv.org/abs/2605.28983v1,Jose Marie Antonio Miñoza;Erika Fille T. Legara;Christopher P. Monterola
+
+A Training-Time Diagnostic for Generalization via the Log-Alignment Ratio,2026-05-27,http://arxiv.org/abs/2605.28975v1,Ali Shehper;Ashish Vaswani
+
+Cyclical Entropy Eruption: Entropy Dynamics in Agent Reinforcement Learning,2026-05-27,http://arxiv.org/abs/2605.27954v1,Wendi Li;Shawn Im;Sharon Li
+
+Fine-Tuning Dynamics of In-Context Factual Recall in Transformers,2026-05-26,http://arxiv.org/abs/2605.27774v1,Ruomin Huang;Eshaan Nichani;Jason D. Lee;Rong Ge
+
+Worker Disagreement Reveals Sharp Directions in Local SGD,2026-05-26,http://arxiv.org/abs/2605.27739v1,Tolga Dimlioglu;Kristi Topollai;Anna Choromanska
