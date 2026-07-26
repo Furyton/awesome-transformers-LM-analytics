@@ -89,3 +89,25 @@ How Language Models Fail: Token-Level Signatures of Committed and Persistent Rea
 The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models,2026-06-04,http://arxiv.org/abs/2606.06188v1,Jinyang Zhang;Hongxin Ding;Yue Fang;Weibin Liao;Muyang Ye;Junfeng Zhao;Yasha Wang
 
 Mechanistic Insights into Functional Sparsity in Multimodal LLMs via CoRe Heads,2026-06-04,http://arxiv.org/abs/2606.05843v1,Ruoxi Sun;Quantong Qiu;Juntao Li;Zecheng Tang;Yihang Lou;Min Zhang
+
+Neuron Populations Exhibit Divergent Selectivity with Scale,2026-06-02,http://arxiv.org/abs/2606.03990v1,Amil Dravid;Yasaman Bahri;Alexei A. Efros;Yossi Gandelsman
+
+On the Persistent Effects of Lexicality in Large Language Models,2026-06-01,http://arxiv.org/abs/2606.02750v2,Hammad Rizwan;Muhammad Umair Haider;Nishant Subramani;Mona T. Diab;A. B. Siddique;Hassan Sajjad
+
+How Optimality Structures Sparse Dictionaries: A Theory for Understanding SAE Representations,2026-06-01,http://arxiv.org/abs/2606.02385v1,William Dorrell
+
+When Do Attention Circuits Form? Developmental Trajectories of Capability and Attention-Sink Emergence Across Three 1B-ClassArchitectures,2026-06-01,http://arxiv.org/abs/2606.02378v2,Yongzhong Xu
+
+"Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization",2026-05-29,http://arxiv.org/abs/2605.31558v1,Felipe Urrutia;Juan José Alegría;Cinthia Sanchez Macias;Jorge Salas;Cristian B. Calderon;Cristobal Rojas
+
+Contribution Weights: A Geometrical Analysis of Self-Attention Transformers,2026-05-29,http://arxiv.org/abs/2606.07604v1,Harry Jake Cunningham;Nicola Muca Cirone
+
+A Shared Valence Axis Across Modern LLMs and Human EEG: The Saturation Regularity,2026-05-28,http://arxiv.org/abs/2606.00129v1,Yousef A. Radwan;Xuhui Liu;Kilichbek Haydarov;Yuqian Fu;Mohamed Elhoseiny
+
+Do Language Models Track Entities Across State Changes?,2026-05-28,http://arxiv.org/abs/2605.30233v1,Zilu Tang;Qiao Zhao;Gabriel Franco;Derry Wijaya;Aaron Mueller;Sebastian Schuster;Najoung Kim
+
+"Internal Representation, Not Clinical Knowledge: Where Apparent LLM Triage Failures Originate",2026-05-28,http://arxiv.org/abs/2605.29889v1,David Fraile Navarro;Berardino Como;Jialei Sheng;Soundariya Ananthan;Shlomo Berkovsky
+
+The Attentional White Bear Effect in Transformer Language Models,2026-05-27,http://arxiv.org/abs/2605.28639v1,Rebecca Ramnauth;Brian Scassellati
+
+Revealing Algorithmic Deductive Circuits for Logical Reasoning,2026-05-27,http://arxiv.org/abs/2605.27824v1,Phuong Minh Nguyen;Tien Huu Dang;Naoya Inoue
