@@ -54,3 +54,23 @@ Service-Induced Congestion in Memory-Constrained LLM Serving,2026-06-14,http://a
 Beyond Layer Importance in Layer-wise Sparsity: An Inter-Layer Perturbation-Absorption Perspective,2026-06-13,http://arxiv.org/abs/2606.15161v1,Tao Jing;Ningxin Wu;Chen Kang;Dong Yu;Changliang Li;Pengyuan Liu
 
 Multilingual Sentiment Aware Text Summarization A Reinforcement Learning Approach for Consistency Maintenance,2026-06-08,http://arxiv.org/abs/2606.08940v1,Mikhail Krasitskii;Alexander Gelbukh;Olga Kolesnikova;Grigori Sidorov
+
+"Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation",2026-06-03,http://arxiv.org/abs/2606.05403v1,Rohan N. Pradhan;Steve Goley
+
+Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics,2026-06-02,http://arxiv.org/abs/2606.03982v1,Mutsumi Sasaki;Go kamoda;Ryosuke Takahashi;Kosuke Sato;Kentaro Inui;Keisuke Sakaguchi;Benjamin Heinzerling
+
+When Helping Hurts and How to Fix It: Multi-Agent Debate for Data Cleaning,2026-06-01,http://arxiv.org/abs/2606.02866v1,Chirag Parmar;Akshat Mehta;Henglin Wu;Jagadish Ramamurthy;Shweta Medhekar
+
+On the Persistent Effects of Lexicality in Large Language Models,2026-06-01,http://arxiv.org/abs/2606.02750v2,Hammad Rizwan;Muhammad Umair Haider;Nishant Subramani;Mona T. Diab;A. B. Siddique;Hassan Sajjad
+
+Massive Spikes in LLMs are Bias Vectors: Mechanistic Uncovering and Spike-Free Quantization,2026-06-01,http://arxiv.org/abs/2606.02288v1,Yung-Chin Chen;Chung Peng Lee;Ze-Wei Liou;Naveen Verma
+
+The Assistant as a Privileged Persona: A canonical reference in cross-persona self-recognition,2026-05-30,http://arxiv.org/abs/2606.00545v1,Asvin G
+
+Contribution Weights: A Geometrical Analysis of Self-Attention Transformers,2026-05-29,http://arxiv.org/abs/2606.07604v1,Harry Jake Cunningham;Nicola Muca Cirone
+
+Cognitive Fatigue in Autoregressive Transformers: Formalization and Measurement,2026-05-29,http://arxiv.org/abs/2605.30981v1,Riju Marwah;Ritvik Garimella;Vishal Pallagani;Atishay Jain;Michael Stewart;Amit Sheth
+
+A Shared Valence Axis Across Modern LLMs and Human EEG: The Saturation Regularity,2026-05-28,http://arxiv.org/abs/2606.00129v1,Yousef A. Radwan;Xuhui Liu;Kilichbek Haydarov;Yuqian Fu;Mohamed Elhoseiny
+
+DEPART: DEcomposing PARiTy across Multilingual LLMs,2026-05-27,http://arxiv.org/abs/2605.28163v1,Manan Uppadhyay;Prashant Kodali;Pranjal Chitale;Reshma Ramaprasad;Himanshu Beniwal;Sunayana Sitaram
