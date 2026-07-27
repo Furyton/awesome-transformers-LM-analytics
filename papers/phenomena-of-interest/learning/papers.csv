@@ -75,3 +75,19 @@ Causally Evaluating the Learnability of Formal Language Tasks,2026-06-08,http://
 How Language Models Fail: Token-Level Signatures of Committed and Persistent Reasoning Failures,2026-06-04,http://arxiv.org/abs/2606.06635v1,Tanvi Thoria;Kiana Jafari;Marc R. Schlichting;Mykel J. Kochenderfer
 
 The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models,2026-06-04,http://arxiv.org/abs/2606.06188v1,Jinyang Zhang;Hongxin Ding;Yue Fang;Weibin Liao;Muyang Ye;Junfeng Zhao;Yasha Wang
+
+The Paradox of Outcome Optimization: A Causal Information-Theoretic Bound on Reasoning Shortcuts in LLMs,2026-05-30,http://arxiv.org/abs/2606.00674v1,Zihan Chen;Yiming Zhang;Wenxiang Geng;Zenghui Ding;Yining Sun
+
+How can embedding models bind concepts?,2026-05-29,http://arxiv.org/abs/2605.31503v1,Arnas Uselis;Darina Koishigarina;Seong Joon Oh
+
+Assign and Add: A Mechanistic Study of Compositional Arithmetic,2026-05-29,http://arxiv.org/abs/2605.31497v1,Brady Exoo;Alberto Bietti;John Sous
+
+"Language Models Can Resolve Reference Compositionally, But It's Not Their Native Strength: The Case of the Personal Relation Task",2026-05-29,http://arxiv.org/abs/2605.31480v2,Bart Evelo;Meaghan Fowlie;Denis Paperno
+
+The Hamilton-Jacobi Theory of Deep Learning,2026-05-27,http://arxiv.org/abs/2605.28983v1,Jose Marie Antonio Miñoza;Erika Fille T. Legara;Christopher P. Monterola
+
+A Training-Time Diagnostic for Generalization via the Log-Alignment Ratio,2026-05-27,http://arxiv.org/abs/2605.28975v1,Ali Shehper;Ashish Vaswani
+
+On Compositional Learning Behaviours in Formal Mathematics,2026-05-27,http://arxiv.org/abs/2605.28512v2,Kevin Yandoka Denamganaï
+
+Learn from your own latents and not from tokens: A sample-complexity theory,2026-05-26,http://arxiv.org/abs/2605.27734v1,Daniel J. Korchinski;Alessandro Favero;Matthieu Wyart
