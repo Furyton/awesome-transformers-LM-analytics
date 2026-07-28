@@ -12,3 +12,5 @@ When Does Tool Use Increase the Expressive Power of Finite-Precision Recurrent M
 Ghost in the Kernel: In-Context Learning with Efficient Transformers via Domain Generalization,2026-07-01,http://arxiv.org/abs/2607.00479v1,Peilin Liu;Ding-Xuan Zhou
 MuonSSM: Orthogonalizing State Space Models for Sequence Modeling,2026-06-29,http://arxiv.org/abs/2606.30461v1,Thai-Khanh Nguyen;Ngoc-Bich-Uyen Vo;Thieu N. Vo;Tan M. Nguyen;Cuong Pham
 CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention,2026-06-25,http://arxiv.org/abs/2606.27229v3,Sayak Dutta
+
+An Algebraic View of the Expressivity of Recurrent Language Models,2026-06-01,http://arxiv.org/abs/2606.01765v2,Franz Nowak;Ryan Cotterell;Reda Boumasmoud
