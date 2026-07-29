@@ -116,3 +116,13 @@ Adaptive inference and function vectors in deep transformers,2026-06-15,http://a
 Where Computation Lives Inside TabPFN: Causal Localisation of Attention Head Function,2026-06-11,http://arxiv.org/abs/2606.12917v1,Atharva Gupta;Dhruv Kumar;Murari Mandal;Saurabh Deshpande
 
 The Effect of Training Task Diversity on In-Context Learning through the Lens of Low-Dimensional Subspaces,2026-06-05,http://arxiv.org/abs/2606.06814v1,Soo Min Kwon;Alec S. Xu;Can Yaras;Dogyoon Song;Laura Balzano;Qing Qu
+
+An Asymptotic Theory of Chain-of-Thought in In-Context Learning,2026-06-02,http://arxiv.org/abs/2606.03217v1,Kaito Takanami;Cengiz Pehlevan
+
+Finite Certificates for In-Context Determinacy and a Threshold Theory of Emergence in Language Models,2026-05-30,http://arxiv.org/abs/2606.07623v1,Faruk Alpay;Hamdi Alakkad
+
+Attention as In-Context Empirical Bayes: A Two-Stage View via Particle Dynamics,2026-05-28,http://arxiv.org/abs/2605.29351v1,Matthew Smart;Soumya Ganguly;Nilava Metya;Alexandre V. Morozov;Anirvan M. Sengupta
+
+Understanding Generalization and Forgetting in In-Context Continual Learning,2026-05-27,http://arxiv.org/abs/2605.28705v1,Guangyu Li;Meng Ding;Lijie Hu
+
+Fine-Tuning Dynamics of In-Context Factual Recall in Transformers,2026-05-26,http://arxiv.org/abs/2605.27774v1,Ruomin Huang;Eshaan Nichani;Jason D. Lee;Rong Ge

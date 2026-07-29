@@ -75,3 +75,17 @@ Causally Evaluating the Learnability of Formal Language Tasks,2026-06-08,http://
 How Language Models Fail: Token-Level Signatures of Committed and Persistent Reasoning Failures,2026-06-04,http://arxiv.org/abs/2606.06635v1,Tanvi Thoria;Kiana Jafari;Marc R. Schlichting;Mykel J. Kochenderfer
 
 The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models,2026-06-04,http://arxiv.org/abs/2606.06188v1,Jinyang Zhang;Hongxin Ding;Yue Fang;Weibin Liao;Muyang Ye;Junfeng Zhao;Yasha Wang
+
+Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them),2026-06-03,http://arxiv.org/abs/2606.05145v1,Nizar Islah;Istabrak Abbes;Irina Rish;Sarath Chandar;Eilif B. Muller
+
+The Paradox of Outcome Optimization: A Causal Information-Theoretic Bound on Reasoning Shortcuts in LLMs,2026-05-30,http://arxiv.org/abs/2606.00674v1,Zihan Chen;Yiming Zhang;Wenxiang Geng;Zenghui Ding;Yining Sun
+
+Escaping the Mode Lottery: Multi-Response Training Improves Language Model Generalization,2026-05-30,http://arxiv.org/abs/2606.00544v1,Hasan Amin;Kian Ahrabian;Ming Yin;Rajiv Khanna
+
+Assign and Add: A Mechanistic Study of Compositional Arithmetic,2026-05-29,http://arxiv.org/abs/2605.31497v1,Brady Exoo;Alberto Bietti;John Sous
+
+A Training-Time Diagnostic for Generalization via the Log-Alignment Ratio,2026-05-27,http://arxiv.org/abs/2605.28975v1,Ali Shehper;Ashish Vaswani
+
+"Law of Neural Interaction: Depth-Width Shape, Interaction Efficiency, and Generalization",2026-05-27,http://arxiv.org/abs/2605.27989v1,Wenjie Sun;Jinning Yang;Shuai Zhang;Mengnan Du
+
+Learn from your own latents and not from tokens: A sample-complexity theory,2026-05-26,http://arxiv.org/abs/2605.27734v1,Daniel J. Korchinski;Alessandro Favero;Matthieu Wyart

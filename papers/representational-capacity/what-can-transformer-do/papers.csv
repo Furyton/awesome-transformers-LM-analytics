@@ -92,3 +92,17 @@ Adaptive inference and function vectors in deep transformers,2026-06-15,http://a
 "How Linear Is a Transformer Feed-Forward Block? Per-Block Linear Recoverability Is Learned, Not Architectural",2026-06-12,http://arxiv.org/abs/2606.19379v1,Stuart Whipp
 
 Towards Tight Bounds for Streaming Attention,2026-06-05,http://arxiv.org/abs/2606.07205v1,Justin Y. Chen;Ying Feng;Piotr Indyk;Michael Kapralov;Ekaterina Kochetkova;Boris Prokhorov
+
+Phase transitions for the noisy transformer model in arbitrary dimension,2026-06-03,http://arxiv.org/abs/2606.05140v1,Kyunghoo Mun;Matthew Rosenzweig
+
+Representational Capacity: Geometric Limits on Feature Representation in Transformer Language Models,2026-06-01,http://arxiv.org/abs/2606.02765v1,Alexander Guha
+
+Rethinking the Role of Positional Encoding: Sliding-Window Transformers without PE Remain Turing Complete,2026-06-01,http://arxiv.org/abs/2606.01532v2,Qian Li;Xinyu Mao;Shang-Hua Teng
+
+Agentic Transformers Provably Learn to Search via Reinforcement Learning,2026-05-29,http://arxiv.org/abs/2606.00183v1,Tong Yang;Yu Huang;Yingbin Liang;Yuejie Chi
+
+Reachability and asymptotics of Gaussian Transformer dynamics,2026-05-29,http://arxiv.org/abs/2606.07600v1,Albert Alcalde;Zhengping Ji;Enrique Zuazua
+
+Revisiting Padded Transformer Expressivity: Which Architectural Choices Matter and Which Don't,2026-05-28,http://arxiv.org/abs/2605.30523v1,Anej Svete;William Merrill;Ryan Cotterell;Ashish Sabharwal
+
+Anti Mode-Collapse in Mean-Field Transformer via Auxiliary Variables,2026-05-28,http://arxiv.org/abs/2605.30229v1,Masaaki Imaizumi;Masanori Koyama;Noboru Isobe;Kohei Hayashi

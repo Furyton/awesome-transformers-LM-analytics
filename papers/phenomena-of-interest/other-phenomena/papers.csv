@@ -54,3 +54,25 @@ Service-Induced Congestion in Memory-Constrained LLM Serving,2026-06-14,http://a
 Beyond Layer Importance in Layer-wise Sparsity: An Inter-Layer Perturbation-Absorption Perspective,2026-06-13,http://arxiv.org/abs/2606.15161v1,Tao Jing;Ningxin Wu;Chen Kang;Dong Yu;Changliang Li;Pengyuan Liu
 
 Multilingual Sentiment Aware Text Summarization A Reinforcement Learning Approach for Consistency Maintenance,2026-06-08,http://arxiv.org/abs/2606.08940v1,Mikhail Krasitskii;Alexander Gelbukh;Olga Kolesnikova;Grigori Sidorov
+
+"Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation",2026-06-03,http://arxiv.org/abs/2606.05403v1,Rohan N. Pradhan;Steve Goley
+
+Covert Influence Between Language Models,2026-06-02,http://arxiv.org/abs/2606.04071v1,Avidan Shah;Jay Chooi;Jinghua Ou;Shi Feng
+
+Rethinking the Role of Tensor Decompositions in Post-Training LLM Compression,2026-06-02,http://arxiv.org/abs/2606.03465v1,Artur Zagitov;Alexander Miasnikov;Maxim Krutikov;Vladimir Aletov;Gleb Molodtsov;Nail Bashirov;Artem Tsedenov;Aleksandr Beznosikov
+
+On the Persistent Effects of Lexicality in Large Language Models,2026-06-01,http://arxiv.org/abs/2606.02750v2,Hammad Rizwan;Muhammad Umair Haider;Nishant Subramani;Mona T. Diab;A. B. Siddique;Hassan Sajjad
+
+Truthful AI Advisors: A Pre-Specified Benchmark for Large Language Model Honesty Under Preference Misalignment,2026-05-31,http://arxiv.org/abs/2606.01456v1,Hamidreza Hasani Balyani;Seyed Pouyan Mousavi Davoudi;Alireza Amiri-Margavi;Amin Gholami Davodi;Arshia Gharagozlou
+
+How can embedding models bind concepts?,2026-05-29,http://arxiv.org/abs/2605.31503v1,Arnas Uselis;Darina Koishigarina;Seong Joon Oh
+
+Cognitive Fatigue in Autoregressive Transformers: Formalization and Measurement,2026-05-29,http://arxiv.org/abs/2605.30981v1,Riju Marwah;Ritvik Garimella;Vishal Pallagani;Atishay Jain;Michael Stewart;Amit Sheth
+
+Cross-Layer Subspace Coupling for LLM Compression: A Unifying Framework and Its Empirical Limits,2026-05-29,http://arxiv.org/abs/2605.30836v2,Snigdha Chandan Khilar
+
+"Human-Alignment, Calibration, and Activation Patterns in Large Language Model Uncertainty",2026-05-29,http://arxiv.org/abs/2605.30675v1,Kyle Moore;Jesse Roberts;Daryl Watson;William Ward;Grayson Heyboer
+
+The Architecture of Errors: From Universal Impossibility to Patch-Local LLM Reliability,2026-05-28,http://arxiv.org/abs/2605.30628v1,Mikhail L. Arbuzov;Lee Mosbacker;Sisong Bei;Ziwei Dong;Dmitri Kalaev;Alexey Shvets
+
+DEPART: DEcomposing PARiTy across Multilingual LLMs,2026-05-27,http://arxiv.org/abs/2605.28163v1,Manan Uppadhyay;Prashant Kodali;Pranjal Chitale;Reshma Ramaprasad;Himanshu Beniwal;Sunayana Sitaram
