@@ -89,3 +89,29 @@ How Language Models Fail: Token-Level Signatures of Committed and Persistent Rea
 The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models,2026-06-04,http://arxiv.org/abs/2606.06188v1,Jinyang Zhang;Hongxin Ding;Yue Fang;Weibin Liao;Muyang Ye;Junfeng Zhao;Yasha Wang
 
 Mechanistic Insights into Functional Sparsity in Multimodal LLMs via CoRe Heads,2026-06-04,http://arxiv.org/abs/2606.05843v1,Ruoxi Sun;Quantong Qiu;Juntao Li;Zecheng Tang;Yihang Lou;Min Zhang
+
+"Trust, but Don't Verify: Epistemic Blind Spots in LLM Source Evaluation",2026-06-03,http://arxiv.org/abs/2606.05403v1,Rohan N. Pradhan;Steve Goley
+
+Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics,2026-06-02,http://arxiv.org/abs/2606.03982v1,Mutsumi Sasaki;Go kamoda;Ryosuke Takahashi;Kosuke Sato;Kentaro Inui;Keisuke Sakaguchi;Benjamin Heinzerling
+
+Knowledge Editing in Masked Diffusion Language Models,2026-06-02,http://arxiv.org/abs/2606.03924v1,Haewon Park;Yohan Jo
+
+How Optimality Structures Sparse Dictionaries: A Theory for Understanding SAE Representations,2026-06-01,http://arxiv.org/abs/2606.02385v1,William Dorrell
+
+When Do Attention Circuits Form? Developmental Trajectories of Capability and Attention-Sink Emergence Across Three 1B-ClassArchitectures,2026-06-01,http://arxiv.org/abs/2606.02378v2,Yongzhong Xu
+
+Massive Spikes in LLMs are Bias Vectors: Mechanistic Uncovering and Spike-Free Quantization,2026-06-01,http://arxiv.org/abs/2606.02288v1,Yung-Chin Chen;Chung Peng Lee;Ze-Wei Liou;Naveen Verma
+
+The Assistant as a Privileged Persona: A canonical reference in cross-persona self-recognition,2026-05-30,http://arxiv.org/abs/2606.00545v1,Asvin G
+
+"Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization",2026-05-29,http://arxiv.org/abs/2605.31558v1,Felipe Urrutia;Juan José Alegría;Cinthia Sanchez Macias;Jorge Salas;Cristian B. Calderon;Cristobal Rojas
+
+Assign and Add: A Mechanistic Study of Compositional Arithmetic,2026-05-29,http://arxiv.org/abs/2605.31497v1,Brady Exoo;Alberto Bietti;John Sous
+
+Do Language Models Track Entities Across State Changes?,2026-05-28,http://arxiv.org/abs/2605.30233v1,Zilu Tang;Qiao Zhao;Gabriel Franco;Derry Wijaya;Aaron Mueller;Sebastian Schuster;Najoung Kim
+
+"Internal Representation, Not Clinical Knowledge: Where Apparent LLM Triage Failures Originate",2026-05-28,http://arxiv.org/abs/2605.29889v1,David Fraile Navarro;Berardino Como;Jialei Sheng;Soundariya Ananthan;Shlomo Berkovsky
+
+The Attentional White Bear Effect in Transformer Language Models,2026-05-27,http://arxiv.org/abs/2605.28639v1,Rebecca Ramnauth;Brian Scassellati
+
+Revealing Algorithmic Deductive Circuits for Logical Reasoning,2026-05-27,http://arxiv.org/abs/2605.27824v1,Phuong Minh Nguyen;Tien Huu Dang;Naoya Inoue
